@@ -19,3 +19,5 @@ Direct to frontend folder by
 
 Start the frontend server
 ```npm start```
+
+![alt text](image.png)
